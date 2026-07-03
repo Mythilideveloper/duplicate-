@@ -1,0 +1,11 @@
+business1,business2,name_score,address_score,phone_match,recommendation,confidence
+ABC Restaurant,ABC Restuarant,92.86,100.0,Yes,Review Manually,Medium
+Fresh Bakery,Fresh Bakkery,96.0,100.0,Yes,Safe to Merge,High
+City Cafe,City Coffee Cafe,72.0,100.0,Yes,Not a Duplicate,Low
+Green Mart,GreenMart,94.74,100.0,Yes,Review Manually,Medium
+Sun Electronics,Sun Electronic,96.55,100.0,Yes,Safe to Merge,High
+Happy Foods,Happy Food,95.24,100.0,Yes,Safe to Merge,High
+Royal Mobiles,Royal Mobile,96.0,100.0,Yes,Safe to Merge,High
+Blue Pharmacy,Blue Pharmcy,96.0,100.0,Yes,Safe to Merge,High
+Ocean Super Market,Ocean Supermarket,97.14,100.0,Yes,Safe to Merge,High
+Dream Bakery,Dream Bakkery,96.0,100.0,Yes,Safe to Merge,High
